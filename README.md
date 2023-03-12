@@ -1,5 +1,9 @@
 # Octo
-> Deep learning model for recognising pets :)
+> Deep learning model for recognising pets, especially:<br>
+> CATS
+> DOGS
+> WEIRDOS (Resembles both as a cat or a dog) 
+> :)
 
 
 ### I have explained my project by breaking down it into simpler parts. 
