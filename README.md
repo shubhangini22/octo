@@ -26,7 +26,8 @@ Then the data to be utilized was pre-processed in data preprocessing step<br><br
        <br><br>
 Step-2:Preprocessing the test set and training set respectively by creating respective objects and instance from imagedatagenerator.<br><br><br>
 
-           <img width="888" alt="2" src="https://user-images.githubusercontent.com/88343647/224542986-12ad2f6b-bcdc-41d2-8542-4957a303fd2b.png">
+<img width="888" alt="2" src="https://user-images.githubusercontent.com/88343647/224543500-dd7cd296-1bf2-48ac-8d6e-2f9ba566f9cd.png">
+
 <br><br>
 Step-3:After performing the above steps it's time to build our CNN model.<br>
 This itself inovolves diving deepinto mathematics by breaking down inti following steps:<br>
