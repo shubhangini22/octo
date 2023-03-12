@@ -36,7 +36,7 @@ This itself inovolves diving deepinto mathematics by breaking down inti followin
 3.Adding a second convolutional layer<br>
 4.Flatterning<br>
 5.Full connection<br>
-6.Output layer
+6.Output layer<br><br><br>
 <img width="857" alt="3" src="https://user-images.githubusercontent.com/88343647/224543177-606ae7fa-f2c0-4e7f-99a4-86100202d952.png">
 
 <br><br><br>
