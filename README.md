@@ -39,7 +39,7 @@ This itself inovolves diving deepinto mathematics by breaking down inti followin
 6.Output layer<br><br><br>
 <img width="857" alt="3" src="https://user-images.githubusercontent.com/88343647/224543177-606ae7fa-f2c0-4e7f-99a4-86100202d952.png">
 
-<br><br><br>
+<br><br>
 <img width="833" alt="4" src="https://user-images.githubusercontent.com/88343647/224543189-2675a4b3-b46e-4d92-93c3-68cc658be04d.png">
 
 <br><br>
@@ -48,13 +48,13 @@ Step-4:After specifying the test set and training set, building of CNN model was
 
 <br><br><br><br>
 Step-5:Now, prediction was done by giving a weird image of cat were the model satisfactorily gave accepted result<br><br><br>
-###Test image
+#Test image
 
 
 
 ![cat 4069](https://user-images.githubusercontent.com/88343647/224543329-48ed81c1-e647-4cd5-b409-ad041bb7715e.jpg)
 <br><br><br>
-###Predicted Result:
+#Predicted Result:
 
 
 <img width="894" alt="5" src="https://user-images.githubusercontent.com/88343647/224543387-e107a2ab-a506-462d-8f8a-972af76e178d.png">
